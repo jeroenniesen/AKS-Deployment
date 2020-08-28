@@ -1,5 +1,5 @@
 #params
-PREFIX="MDR" #Should not exceed 3 characters
+PREFIX="DEM" #Should not exceed 3 characters
 STAGE="PRD" #Should not exceed 3 characters (DEV/TST/ACC/PRD)
 LOCATION="WEU" #Should not exceed 3 characters (only NEU en WEU are available)
 VM_SIZE="Standard_DS2_v2" #Standard_DS2_v2 for production , Standard_B2ms for devtest
